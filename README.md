@@ -1,6 +1,5 @@
-<img width="1280" height="960" alt="Linked In background" src="https://github.com/user-attachments/assets/c259eeeb-52d3-46f5-99b2-adc308c42e9a" />
+<img width="1280" height="960" 
+     alt="Github Profile Readme background" 
+     src="https://raw.githubusercontent.com/dileep-hegde/dileep-hegde.github.io/main/github-profile-bg.jpg" />
 
-
-# Hi there! 👋
-
-    I'm Dileep Hegde, a Backend Software Engineer
+Hi there! 👋 I'm Dileep Hegde, a Backend Software Engineer
